@@ -1,7 +1,8 @@
 **Ruzhica Chochoroska 216057**
 
 **2. Control Flow Graph**
-![cfg](https://github.com/ruzicaa06/SI_2023_lab2_216057/assets/126772415/88cb91c8-85f0-4511-bf0b-a4222859111f)
+![cfg1](https://github.com/ruzicaa06/SI_2023_lab2_216057/assets/126772415/e910263d-c1fb-4f9f-b5a2-2baff565db74)
+
 
 **3. Цикломатска комплексност**
 V(G) = E - N + 2
